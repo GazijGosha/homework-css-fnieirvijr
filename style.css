@@ -1,0 +1,29 @@
+body{
+   font-size: 17px;
+}
+h1 {
+   margin: 18px;
+   margin-left: 45px;
+   font-size: 20px;
+}
+.red{
+color: red;
+}
+.yellow{
+color: yellow;
+}
+.grey{
+color: gray;
+}
+.blue{
+   color: lightblue;
+}
+a:hover {
+   font-size: 1.09em;
+
+}
+a.green{
+   color: green;
+   margin-left: 900px;
+   
+}
